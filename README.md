@@ -13,4 +13,4 @@
 + Linear Regression
 + Logistic Regression
 + Decision Trees
-+ Naive Bayes
++ Naive Bayes (Bernoulii, Gaussian)
